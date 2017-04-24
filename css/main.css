@@ -43,6 +43,11 @@ hr {
     display: none;
 }
 
+.video {
+    margin-top: 40px;
+    border: 1px solid #5e5e5e;
+}
+
 .footerText {
     font-family: gothamProLig, Helvetica, sans-serif;
 }
