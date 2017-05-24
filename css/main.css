@@ -69,6 +69,11 @@ hr {
     min-width: 100%;
 }
 
+.img-Almostfull {
+    width: 450px;
+    height: 50%;
+}
+
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
