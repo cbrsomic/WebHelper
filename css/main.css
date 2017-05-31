@@ -123,6 +123,20 @@ footer p {
     width: 50%;
 }
 
+.tutorial-preview-image {
+    height: 300px;
+    width: 80%;
+}
+
+.text-tutorial {
+    margin: 10px;
+    padding-top: 100px;
+}
+
+.gray-text {
+    color: gray;
+}
+
 .arrowRight {
     position: absolute;
     left: 800px;
